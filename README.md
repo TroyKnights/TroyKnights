@@ -4,7 +4,8 @@
 
 - <b>Pentesting</b>
   - [Troll VM Exploitation/Kali Linux](https://github.com/TroyKnights/KalitrollPentest)
-- 
+  - [Vancouver2018Lab/Kali Linux](https://github.com/TroyKnights/Vancouver2018Lab)
+
 
 <h2> 🤳 Connect with me:</h2>
 
