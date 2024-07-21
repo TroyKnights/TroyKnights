@@ -2,6 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity/IT Projects:</h2>
 
+- <b>Firewall/Homelabs</b>
+
 - <b>Pentesting</b>
   - [Troll VM Exploitation/Kali Linux](https://github.com/TroyKnights/KalitrollPentest)
   - [Vancouver2018Lab/Kali Linux](https://github.com/TroyKnights/Vancouver2018Lab)
