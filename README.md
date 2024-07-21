@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity/IT Projects:</h2>
 
-- <b>Proxmox Homelab Setup</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Pentesting</b>
+  - [Troll VM Exploitation/Kali Linux](https://github.com/TroyKnights/KalitrollPentest)
 - 
 
 <h2> 🤳 Connect with me:</h2>
