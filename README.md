@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity/IT Projects:</h2>
 
-- <b>Firewall/Homelabs</b>
+- <b>Malaware Threat analysis</b>
 
 - <b>Pentesting</b>
   - [Troll VM Exploitation/Kali Linux](https://github.com/TroyKnights/KalitrollPentest)
