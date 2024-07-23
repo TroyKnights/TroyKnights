@@ -2,9 +2,9 @@
 
 <h2>👨‍💻 Cybersecurity/IT Projects:</h2>
 
-- <b>Malaware Threat analysis</b>
-  <br></br>
-  -[Wireshark Threat analysis part-1](https://github.com/TroyKnights/Threatanalyis1)
+- <b>Threat Analysis</b>
+  - [Wireshark Threat Analysis Part 1 (Pusk.exe)](https://github.com/TroyKnights/Threatanalyis1)
+
 
 - <b>Pentesting</b>
   - [Troll VM Exploitation/Kali Linux](https://github.com/TroyKnights/KalitrollPentest)
